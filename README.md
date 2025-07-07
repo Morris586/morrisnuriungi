@@ -8,10 +8,10 @@ I'm currently enhancing my backend skills and exploring the exciting world of AI
 
 ## 🚀 About Me
 - 🔧 Backend Developer specializing in Python & Django
-- 💬 Learning: HTMLand CSS (for backend integration)
+- 💬 Learning: HTML and CSS (for backend integration)
 - 🤖 Exploring: AI & Machine Learning basics
 - 🌍 Location: Kenya
-- ✨ Fun fact: I love hiking, cooking, and taking on new challenges!
+
 
 ---
 
