@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Morris Nuriungi!
+# 👋 Hi there, I'm Morris Muriungi!
 
 I'm a backend web developer with a growing passion for building efficient, scalable, and user-friendly web applications using Python and Django.
 
